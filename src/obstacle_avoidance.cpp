@@ -1,4 +1,4 @@
-#include <arduino>
+#include <Arduino.h>
 
 int ECHO_PIN = 3;
 int TRIG_PIN = 4;
